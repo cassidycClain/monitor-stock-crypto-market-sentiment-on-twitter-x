@@ -1,0 +1,25 @@
+[
+  {
+    "type": "tweet",
+    "id": "1728108619189874825",
+    "url": "https://x.com/elonmusk/status/1728108619189874825",
+    "text": "More than 10 per human on average",
+    "sentiment": "BULLISH",
+    "retweetCount": 11311,
+    "replyCount": 6526,
+    "likeCount": 104121,
+    "viewCount": 291500,
+    "createdAt": "Fri Nov 24 17:49:36 +0000 2023",
+    "lang": "en",
+    "author": {
+      "userName": "elonmusk",
+      "name": "Elon Musk",
+      "isVerified": true,
+      "followers": 172669889
+    },
+    "quote": {
+      "id": "1728107610631729415",
+      "text": "The posts on 𝕏 gets ~ 100 billion impressions every day."
+    }
+  }
+]
