@@ -1,0 +1,4 @@
+{
+  "symbols": ["BTC", "ETH", "AAPL"],
+  "note": "Copy these symbols into config/settings.json under the 'symbols' key to monitor them."
+}
