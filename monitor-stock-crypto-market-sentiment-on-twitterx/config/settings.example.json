@@ -1,0 +1,15 @@
+{
+  "symbols": ["BTC", "AAPL"],
+  "maxResults": 50,
+  "lang": "en",
+  "sinceMinutes": 60,
+  "minLikeCount": 10,
+  "minRetweetCount": 0,
+  "minReplyCount": 0,
+  "minViewCount": 0,
+  "onlyVerifiedUsers": false,
+  "onlyTwitterBlue": false,
+  "sortBy": "likeCount",
+  "sortOrder": "desc",
+  "outputFile": "data/sample_output.json"
+}
